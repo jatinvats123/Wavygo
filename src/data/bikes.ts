@@ -19,15 +19,7 @@ export const BIKE_CATEGORIES: BikeCategory[] = [
     tag: "Best Value",
     color: "#fef9ee",
   },
-  {
-    id: "adventure",
-    name: "Adventure",
-    desc: "Mountain roads & off-road trails",
-    price: "₹799",
-    img: "https://images.unsplash.com/photo-1699972551272-e0eaee1916b2?w=500&h=320&fit=crop&auto=format",
-    tag: "Top Rated",
-    color: "#e8f5ee",
-  },
+
   {
     id: "cruiser",
     name: "Cruiser",
